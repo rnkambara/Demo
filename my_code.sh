@@ -1,1 +1,1 @@
-echo "Hello Conflict!"
+echo "Hello Conflict!   "
