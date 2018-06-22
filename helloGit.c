@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Hello Git!\n");
+    printf("Hello Conflict!\n");
 }
